@@ -1,5 +1,7 @@
 # 安卓运行lxc容器教程-备忘录
+
 关键词 termux lxc android kernel
+
 **本教程需要手机 kernel 支持，以及 root 权限**
 
 首先安装模块 [进入releases](https://github.com/qc-wl/termux-lxc/releases "进入releases") 安装 LxcMagisk-core.zip 模块
